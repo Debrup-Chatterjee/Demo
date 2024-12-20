@@ -1,4 +1,4 @@
 # Demo
 This is my first git repository
 <br>
-Author-Debrup Chatterjee
+Author-Debrup-Chatterjee
